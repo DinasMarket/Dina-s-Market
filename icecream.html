@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coffee</title>
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body class="category-body bread-page">
+  <div class="page-overlay"></div>
+
+  <main class="category-page">
+    <a href="index.html" class="back-link">← Πίσω στην αρχική</a>
+
+    <h1>ΠΑΓΩΤΑ </h1>
+
+    <div class="menu-panel">
+      <div class="product-list">
+                  <div class="product-row" data-price="13.00">
+                 <span class="product-name">ΠΑΓΩΤINIA MIX </span>
+                 <span class="price-label"> 13.00 €/κιλό</span>
+
+                <select class="weight-select" onchange="updateWeightPrice(this)">
+                   <option value="0.250">0.25 κιλό</option>`
+                   <option value="0.5">0.5 κιλό</option>
+                   <option value="1" selected>1 κιλό</option>
+                   <option value="1.5">1.5 κιλά</option>
+                   <option value="2">2 κιλά</option>
+                </select>
+
+                     <button class="add-btn" onclick="addWeightedProduct(this)">Προσθήκη</button>
+            </div>
+                <div class="product-row">
+                  <span>    </span>
+                  <span> €</span>
+                  <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+                </div>
+                <div class="product-row">
+                  <span>    </span>
+                  <span> €</span>
+                  <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+                </div>
+                <div class="product-row">
+                  <span>    </span>
+                  <span> €</span>
+                  <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+                </div>
+
+      </div>     
+    </div>
+  </main>
+</body>
+</html>
