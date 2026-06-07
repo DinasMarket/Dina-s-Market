@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> ΖΥΜΑΡΙΚΑ  </title>
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body class="category-body zimarika-page">
+  <div class="page-overlay"></div>
+
+  <main class="category-page">
+    <a href="index.html" class="back-link">← Πίσω στην αρχική</a>
+
+    <h1> ΖΥΜΑΡΙΚΑ </h1>
+    <section class="menu-group">
+  <h2 class="brand-title">ΑΛΕΥΡΙ  </h2>
+
+  <div class="menu-panel">
+    <div class="product-list">
+     <div class="product-row">
+           <span>    </span>
+           <span> €</span>
+           <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>    </span>
+           <span> €</span> 
+           <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>    </span>
+           <span> €</span>
+           <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>    </span>
+           <span> €</span>
+           <button class="add-btn" type="button" onclick="addToCart('  ', )">Προσθήκη</button>
+     </div>
+
+
+    </div>
+  </div>
+</section>
+
+<section class="menu-group">
+  <h2 class="brand-title"> ΜΑΚΑΡΟΝΙΑ </h2>
+
+  <div class="menu-panel">
+    <div class="product-list">
+      
+     <div class="product-row">
+           <span> FAMIGLIA ΣΠΑΓΓΕΤΙ ΝΟ6  </span>
+           <span> 0.80€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' FAMIGLIA ΣΠΑΓΓΕΤΙ ΝΟ6',0.80 )">Προσθήκη</button>
+     </div>
+      <div class="product-row">
+           <span> FAMIGLIA ΣΠΑΓΓΕΤΙΝΙ ΝΟ10   </span>
+           <span> 0.80€</span>
+           <button class="add-btn" type="button" onclick="addToCart('  FAMIGLIA ΣΠΑΓΓΕΤΙΝΙ ΝΟ10 ',0.80 )">Προσθήκη</button>
+     </div>   
+     <div class="product-row">
+           <span> FAMIGLIA ΠΑΣΤΙΤΣΙΟ ΝΟ2  </span>
+           <span> 0.80€</span>
+           <button class="add-btn" type="button" onclick="addToCart('FAMIGLIA ΠΑΣΤΙΤΣΙΟ ΝΟ2 ',0.80 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> FAMIGLIA ΛΙΝΓΚΟΥΙΝΙ  </span>
+           <span>0.80 €</span>
+           <button class="add-btn" type="button" onclick="addToCart('FAMIGLIA ΛΙΝΓΚΟΥΙΝΙ ',0.80 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> FAMIGLIA ΛΑΖΑΝΑΚΙ   </span>
+           <span> 0.80€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' FAMIGLIA ΛΑΖΑΝΑΚΙ ',0.80 )">Προσθήκη</button>
+     </div>
+              
+     <div class="product-row">
+           <span> ΑΒΕΖ ΣΠΑΓΓΕΤΙ ΝΟ6   </span>
+           <span> €</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΒΕΖ ΣΠΑΓΓΕΤΙ ΝΟ6   ',0.95 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> ΑΒΕΖ  ΣΠΑΓΓΕΤΙΝΙ ΝΟ10  </span>
+           <span> 0.95€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΒΕΖ  ΣΠΑΓΓΕΤΙΝΙ ΝΟ10 ', 0.95)">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> ΑΒΕΖ  ΠΑΣΤΙΤΣΙΟ ΝΟ2  </span>
+           <span> 0.95€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΒΕΖ ΠΑΣΤΙΤΣΙΟ ΝΟ2  ', 0.95 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> ΑΒΕΖ ΚΟΠΤΟ  </span>
+           <span>  0.95€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΒΕΖ ΚΟΠΤΟ  ', 0.95 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> ΑΒΕΖ ΒΙΔΕΣ    </span>
+           <span>  0.95€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΒΕΖ ΒΙΔΕΣ  ', 0.95 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> ΑΒΕΖ ΛΙΝΓΚΟΥΙΝΙ    </span>
+           <span>  0.95€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΒΕΖ ΛΙΝΓΚΟΥΙΝΙ  ', 0.95 )">Προσθήκη</button>
+     </div>
+    <div class="product-row">
+           <span> ΜΙΣΚΟ ΣΠΑΓΓΕΤΙ ΝΟ6   </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΣΠΑΓΓΕΤΙ ΝΟ6 ',1.40 )">Προσθήκη</button>
+     </div>
+      <div class="product-row">
+           <span> ΜΙΣΚΟ ΣΠΑΓΓΕΤΙ ΝΟ7   </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΣΠΑΓΓΕΤΙ ΝΟ7 ',1.40 )">Προσθήκη</button>
+     </div>
+    <div class="product-row">
+           <span> ΜΙΣΚΟ ΣΠΑΓΓΕΤΙΝΙ ΝΟ10  </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΣΠΑΓΓΕΤΙΝΙ ΝΟ10',1.40 )">Προσθήκη</button>
+     </div>
+    <div class="product-row">
+           <span> ΜΙΣΚΟ ΛΙΝΓΚΟΥΙΝΙ   </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΜΙΣΚΟ ΛΙΝΓΚΟΥΙΝΙ ',1.40 )">Προσθήκη</button>
+     </div>
+      <div class="product-row">
+           <span> ΜΙΣΚΟ ΠΑΣΤΙΤΣΙΟ ΝΟ2   </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΠΑΣΤΙΤΣΙΟ ΝΟ2 ',1.40 )">Προσθήκη</button>
+     </div>
+
+     <div class="product-row">
+           <span> ΜΙΣΚΟ ΠΕΝΝΑ ΡΙΓΚΑΤΕ    </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΠΕΝΝΑ ΡΙΓΚΑΤΕ ',1.40)">Προσθήκη</button>
+     </div>
+
+     <div class="product-row">
+           <span> ΜΙΣΚΟ ΚΟΦΤΟ   </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΚΟΦΤΟ ',1.40 )">Προσθήκη</button>
+     </div>
+
+     <div class="product-row">
+           <span>ΜΙΣΚΟ ΚΟΡΑΛΑΚΙ    </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΚΟΡΑΛΑΚΙ ',1.40 )">Προσθήκη</button>
+     </div>
+
+     <div class="product-row">
+           <span> ΜΙΣΚΟ ΚΑΝΕΛΟΝΙΑ 250ΓΡ.   </span>
+           <span> 2.50€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΜΙΣΚΟ ΚΑΝΕΛΟΝΙΑ 250ΓΡ. ',2.50 )">Προσθήκη</button>
+     </div>
+    
+
+
+
+    </div>
+  </div>
+</section>
+ 
+<section class="menu-group">
+  <h2 class="brand-title"> ΡΥΖΙ  </h2>
+
+  <div class="menu-panel">
+    <div class="product-list">
+      <div class="product-row">
+           <span> ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΜΠΑΣΜΑΤΙ 500ΓΡ.   </span>
+           <span> 1.58€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΜΠΑΣΜΑΤΙ 500ΓΡ. ',1.48 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>  ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΚΑΣΤΑΝΟ 500ΓΡ.  </span>
+           <span> 1.49€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΚΑΣΤΑΝΟ 500ΓΡ. ',1.49 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>  ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΜΠΟΝΕΤ 500ΓΡ.  </span>
+           <span> €</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΜΠΟΝΕΤ 500ΓΡ. ',1.49 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>  ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΜΠΟΝΕΤ 1 ΚΙΛΟ.  </span>
+           <span> €</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΤΥΡΟΛΕΖΑ ΡΥΖΙ ΜΠΟΝΕΤ 1 ΚΙΛΟ. ',1.49 )">Προσθήκη</button>
+     </div>
+    <div class="product-row">
+           <span>ΑΝΝΑ ΜΠΟΝΕΤ 500ΓΡ.    </span>
+           <span> 1.40€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΑΝΝΑ ΜΠΟΝΕΤ 500ΓΡ.  ',1.40 )">Προσθήκη</button>
+     </div>
+    <div class="product-row">
+           <span>ΑΝΝΑ ΚΑΡΟΛΙΝΑ 500ΓΡ.    </span>
+           <span> 1.30€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΑΝΝΑ ΚΑΡΟΛΙΝΑ 500ΓΡ. ', )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span>ΑΝΝΑ ΚΑΡΟΛΙΝΑ 2 ΚΙΛΑ.    </span>
+           <span> 4.50€</span>
+           <button class="add-btn" type="button" onclick="addToCart('ΑΝΝΑ ΚΑΡΟΛΙΝΑ 2 ΚΙΛΑ. ',4.50 )">Προσθήκη</button>
+     </div>
+
+    <div class="product-row">
+           <span> ΓΕΥΣΙΣ ΡΥΖΙ (ΚΑΡΟΛΙΝΑ ΙΔΑΝΙΚΟΓΙΑ ΡΙΖΟΤΟ)  1 ΚΙΛΟ.   </span>
+           <span> 2.20€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΓΕΥΣΙΣ ΡΥΖΙ (ΚΑΡΟΛΙΝΑ ΙΔΑΝΙΚΟΓΙΑ ΡΙΖΟΤΟ)  1 ΚΙΛΟ. ',2.20 )">Προσθήκη</button>
+     </div>
+     <div class="product-row">
+           <span> ΓΕΥΣΙΣ ΡΥΖΙ (ΚΑΡΟΛΙΝΑ ΙΔΑΝΙΚΟΓΙΑ ΡΙΖΟΤΟ)  500ΓΡ.   </span>
+           <span> 1.20€</span>
+           <button class="add-btn" type="button" onclick="addToCart(' ΓΕΥΣΙΣ ΡΥΖΙ (ΚΑΡΟΛΙΝΑ ΙΔΑΝΙΚΟΓΙΑ ΡΙΖΟΤΟ) 500ΓΡ. ',1.20 )">Προσθήκη</button>
+     </div>
+
+
+
+    </div>
+  </div>
+</section>
+
+
+
+
+  </main>
+</body>
+</html>
