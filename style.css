@@ -786,6 +786,13 @@ body.category-body.selfcare-page {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+body.category-body.beer-page {
+  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 body.category-body.aporripantika-page {
   
   background-position: center;
