@@ -503,6 +503,10 @@ body {
   background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("katepsigmena.jpg");
   border: 2px solid #42f57e;
 }
+.category-link.beer-card {
+  background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("beer.jpg");
+  border: 2px solid #42f57e;
+}
 .category-link.glykapsigiou-card {
   background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("glykapsigiou.jpg");
   border: 2px solid #42f57e;
